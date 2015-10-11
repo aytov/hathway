@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidInterviewQuestion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="redirect_uri">http://localhost</string>
+    <string name="instagram_id">a40bafeaf23e421f8d0cc1cb4d3f6ef2</string>
+</resources>
